@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Qihao! 
 
 <!--
 **qihao-huang/qihao-huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently a Master student specialized in computer vision, with recent work focusing on 3D perception and scene understanding.
+- Check my [homepage](https://huang.qihao.info/).
+- Check my [LinkedIn](https://www.linkedin.com/in/qihaoo/) profile.
+- 
