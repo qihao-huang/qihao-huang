@@ -1,5 +1,12 @@
 ### Hello, I'm Qihao! 
-
+```text
+  __  __  __     __     _    
+ |  \/  | \ \   / /    / \   
+ | |\/| |  \ \ / /    / _ \  
+ | |  | |   \ V /    / ___ \ 
+ |_|  |_|    \_/    /_/   \_\
+  
+```                          
 <!--
 **qihao-huang/qihao-huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
