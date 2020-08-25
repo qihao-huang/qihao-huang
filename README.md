@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 -->
 
 I am currently a postgraduate student specialized in computer vision, with recent work focusing on 3D perception and scene understanding.
-- Check my [homepage](https://huang.qihao.info/).
-- Check my [LinkedIn](https://www.linkedin.com/in/qihaoo/) profile.
