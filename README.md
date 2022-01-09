@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a postgraduate student specialized in computer vision, with recent work focusing on 3D perception and scene understanding.
+# I am currently a postgraduate student specialized in computer vision, with recent work focusing on 3D perception and scene understanding.
